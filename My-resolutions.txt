@@ -1,0 +1,19 @@
+January{
+  7 - 13 : Git & Github;
+  15 - 20 : SAAS; 
+  22 - 28 : Rest API;
+}
+
+February{
+  1 - 2 : LESS (Dcode);
+  4 : POSTCSS (DesignCourse);
+  6 - 8 : YARN & NPM ( Traversy Media & WPU);
+  10 - 7
+}
+
+March{
+  7 : React JS (Prawito Hudoro);
+  9 : React JS (IDStack);
+  11 - 14 : React JS (arrayid);
+  16 - 31 : Vue JS (baledemy);
+}
