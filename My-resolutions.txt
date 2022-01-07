@@ -8,7 +8,7 @@ February{
   1 - 2 : LESS (Dcode);
   4 : POSTCSS (DesignCourse);
   6 - 8 : YARN & NPM ( Traversy Media & WPU);
-  10 - 7
+  10 - 7 March;
 }
 
 March{
@@ -20,4 +20,16 @@ March{
 
 April{
   1 - 13 : NODEJS;
+  15 - 30 : PHP Dasar;
+}
+
+May{
+  1 - 8 : PHP OOP;
+  10 - 16 : MVC;
+  18 - 27 : Codeigniter;
+  29 - 31 : GSAP (The Code Creative);
+}
+
+June{
+  1 - 4 : MYSQL (Programmer Zaman Now);
 }
