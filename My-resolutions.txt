@@ -1,6 +1,6 @@
 January{
   7 - 13 : Git & Github;
-  15 - 20 : SAAS; 
+  11 - 20 : Bootstrap; 
   22 - 28 : Rest API;
 }
 
